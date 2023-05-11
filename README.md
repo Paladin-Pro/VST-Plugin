@@ -11,7 +11,7 @@ SDK before you can build the plugin. You can download the SDK from the Steinberg
 
 **Clone the repository**: Clone the repository from GitHub onto your local machine using the Git command line tool or
 a Git desktop client. You can use the following command in your terminal to clone the repository:
-**git clone https://github.com/paladin-pro/VST-plugin.git**
+**"git clone https://github.com/paladin-pro/VST-plugin.git"**
 
 **Open the project file**: Navigate to the cloned repository directory and open the project file in your chosen development environment.
 The project file will be located in the root directory of the repository.
